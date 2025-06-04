@@ -27,3 +27,5 @@ The main function orchestrates the program’s execution. It first creates a lar
 Overall, the program effectively demonstrates how RLE compression can be optimized using multithreading. It ensures thread safety, accurate chunk division, and correctness of output while also benchmarking the benefits of concurrent processing. This approach is particularly suitable for large datasets where performance is a key concern.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/2a262e27-8d86-4b28-a20c-c5fd5c3c6afd)
